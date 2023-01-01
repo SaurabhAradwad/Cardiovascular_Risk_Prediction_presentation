@@ -25,7 +25,6 @@ The classification goal is to predict whether the patient has 10-year risk of fu
 
 - [@Aman Guleria](https://www.github.com/AMAN-GULERIA)
 - [@Saurabh Aradwad](https://www.github.com/SaurabhAradwad)
-- [@Ayush Sharma](https://www.github.com/SharmaAyush98)
 - [@Rishika Rai](https://www.github.com/Rishika70)
 
 
