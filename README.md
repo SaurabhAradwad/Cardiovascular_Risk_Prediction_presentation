@@ -30,7 +30,7 @@ The classification goal is to predict whether the patient has 10-year risk of fu
 
 ## Referance Project Document
 
-- [Dataprep Report](https://drive.google.com/file/d/1D-650REB2BUQgE2d7xqCAPME8SwMeyNE/view?usp=share_link)
+- [Dataprep Report](https://drive.google.com/file/d/1D-650REB2BUQgE2d7xqCAPME8SwMeyNE/view?usp=share_link) This is HTML document kindly save it in your local PC and open in any web browser.
 - [Project Report](https://docs.google.com/document/d/1QSCDqAC_MoXteTYedrVYmjrzeFMzbv8gFpGrjTGKfPk/edit?usp=share_link)
 - [Project Summary](https://docs.google.com/document/d/1wS36wU7TN42WnKXJh3SdA4bhYGQo70s0AYwveVTjZjU/edit?usp=share_link)
 - [Colab Notebook ✔](https://colab.research.google.com/drive/1kJi6m8AbqvVqkcuwkOV0XToPvWQpVozx?usp=share_link)
