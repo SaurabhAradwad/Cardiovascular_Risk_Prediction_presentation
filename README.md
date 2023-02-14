@@ -54,12 +54,15 @@ Medical(history)
 - *prevalentHyp* - whether or not the patient was hypertensive (Nominal) 
 - *diabetes* - whether or not the patient had diabetes (Nominal)
 
-Medical(current)
+Medical(current) Recently Calculated
 
-- *totChol* - the longitude where the metre was disengaged
-- *sysBP* - the latitude where the metre was  disengaged
-- *diaBP* - This flag indicates whether the trip record was  held in vehicle memory before sending to the vendor because the vehicle did not have a connection to the server (Y=store and forward; N=not a store and forward trip)
-- *BMI* - duration of the trip in seconds
+- *totChol* - total cholesterol level
+- *sysBP* - systolic blood pressure
+- *diaBP* - diastolic blood pressure
+- *BMI* - Body Mass Index
+- *Heart Rate* - heart rate
+- *Glucose* - glucose level
+
 
 Predict variable (desired target)
 - *TenYearCHD* - 10 year risk of developing coronary heart disease (CHD) — (binary: “1”, means “There is a risk”, “0” means “There is no risk”). 
